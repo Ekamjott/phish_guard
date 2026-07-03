@@ -2,5 +2,5 @@ flask==3.0.3
 beautifulsoup4==4.12.3
 validators==0.28.1
 tldextract==5.1.2
-reportlab==3.0.0
+reportlab==4.4.2
 gunicorn
